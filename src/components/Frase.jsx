@@ -4,7 +4,7 @@ const Frase = ({ frasePersonaje }) => {
   return (
     <>
       <img
-        className="w-50"
+        className="w-25"
         variant="top"
         alt={frasePersonaje.character}
         src={frasePersonaje.image}
